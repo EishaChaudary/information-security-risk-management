@@ -1,13 +1,13 @@
 # information-security-risk-management
-##Overview
+## Overview
 
 This report presents a structured information security risk management assessment of an organisation, focusing on identifying, analysing, and treating cybersecurity risks using established industry frameworks.
 
 The work applies quantitative and qualitative risk analysis techniques and maps findings to ISO/IEC 27001 controls to support effective risk treatment and business resilience planning.
 
-##Scope
+## Scope
 
-The report covers:
+### The report covers:
 
 Asset identification and vulnerability analysis
 Threat and risk evaluation
@@ -16,9 +16,9 @@ Risk quantification using FAIR methodology
 Risk treatment and mitigation planning
 Business Continuity and Disaster Recovery planning
 
-##Methodology
+## Methodology
 
-The analysis is based on:
+### The analysis is based on:
 
 Factor Analysis of Information Risk
 ISO/IEC 27001
@@ -33,10 +33,10 @@ Risk communication and treatment plan
 Business Continuity Plan (BCP)
 Recovery Time Objective (RTO) and Recovery Point Objective (RPO) definition
 
-##File
+## File
 
 report.pdf — Full risk management analysis report
 
-##Purpose
+## Purpose
 
 This repository demonstrates applied knowledge of cybersecurity risk management, governance frameworks, and business continuity planning.
