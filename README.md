@@ -1,7 +1,7 @@
 # information-security-risk-management
 Overview
 
-This project presents a structured information security risk management assessment of an organisation, focusing on identifying, analysing, and treating cybersecurity risks using established industry frameworks.
+This report presents a structured information security risk management assessment of an organisation, focusing on identifying, analysing, and treating cybersecurity risks using established industry frameworks.
 
 The work applies quantitative and qualitative risk analysis techniques and maps findings to ISO/IEC 27001 controls to support effective risk treatment and business resilience planning.
 
